@@ -1,0 +1,13 @@
+{
+  "name": "myproject",
+  "description": "This is a nuclear package!",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "bootstrap": "~3.3.5",
+    "normalize.css": "~3.0.3",
+    "zeptojs": "~1.1.6",
+    "art-reactor": "*",
+    "angular": "1.2.28"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "curly": true,        //循环或者条件语句必须使用花括号包围 
+  "indent": true,       //代码缩进
+  "latedef": false,     //禁止定义之前使用变量，忽略 function 函数声明
+  "undef": false,       //变量未定义
+  "unused": true,       //变量未使用
+  "strict":true,        //严格模式
+  "asi": true,          //控制“缺少分号”的警告
+  "boss": true,         //控制“缺少分号”的警告
+  "lastsemic": true,    //检查一行代码最后声明后面的分号是否遗漏
+  "notypeof": true      //检查无效的 typeof 操作符值
+}
